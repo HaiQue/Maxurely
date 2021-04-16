@@ -1,5 +1,3 @@
-# React.js project with styled components
-
 ## Available Scripts
 
 In the project directory, you can run:
